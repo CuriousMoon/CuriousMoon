@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuriousMoon
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning spring
+- 🌱 I’m currently working on creating a web extention
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me mail me @imansigupta114@gmail.com
 
